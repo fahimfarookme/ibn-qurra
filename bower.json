@@ -1,10 +1,11 @@
 {
-  "name": "tabletoCSV",
-  "main": "jquery.tabletoCSV.js",
-  "version": "0.1.0",
-  "homepage": "https://github.com/cyriac/jquery.tabletoCSV",
+  "name": "ibn-qurra",
+  "main": "ibn-qurra.js",
+  "version": "2.0.0",
+  "homepage": "https://github.com/fahimfarookme/ibn-qurra.git",
   "authors": [
-    "Cyriac Thomas <me@cyriacthomas.com>"
+    "Cyriac Thomas <me@cyriacthomas.com>",
+    "Fahim Farook <fahim@fahimfarook.me>"
   ],
   "description": "Converts html to csv file and downloads it.",
   "keywords": [
